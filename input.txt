@@ -1,0 +1,283 @@
+If road trips, theme parks, and beach resorts just don’t do it for you, how about a stay in a swanky space hotel?
+
+A Silicon Valley startup called Orion Span yesterday announced plans to open a luxury hotel in low Earth orbit by 2022, and you can reserve a room for $80,000. Just be aware that that figure is only a down payment for a 12-day stay, which runs a stratospheric $9.5 million per person. Dubbed Aurora Station, the orbiting inn will offer space tourists with deep pockets a chance to experience life like an astronaut. “That experience entails growing food in space, running science experiments, doing astronaut certification,” said Orion Span CEO Frank Bunger. “At the end of the trip, we’re going to give them a hero’s welcome back home as well.”
+
+But it won’t all be hard work. In addition to witnessing luminous auroras against the blackness of space and gazing down on Earth as it passes below at a distance of 200 miles, guests will be able to enjoy an onboard “holodeck” inspired by the one known to fans of “Star Trek.” And if you like sunrises and sunsets, you’re in luck: Guests will be able to see more than a dozen of each every day.
+
+Orion Span said Aurora Station will be able to accommodate four guests at a time, plus two crew members to make sure things go smoothly. The company provided scant details about how guests will get to and from the hotel, but said they are evaluating potential partners now.
+
+Construction of one Aurora Station “module” will begin in 2019, according to the company, with plans to launch it into orbit by late 2021. Additional modules could be attached later, Bunger said, adding that the overarching goal is to make spaceflight by private citizens a regular occurrence.
+
+“The earliest step of that is to get people visiting in space first,” he said. “So by making that a regular event and a recurring, comfortable event, we believe we are making steps toward having people be more permanently in space — and living there.”
+
+This wouldn’t be the first time ordinary people have gone into space. Between 2001 and 2009, seven “private astronauts” rode Russian-made Soyuz rockets to the International Space Station for brief stays.
+
+One was Richard Garriott, a video game developer and entrepreneur who reportedly paid $30 million for a two-week stay aboard the ISS in 2008. He applauds ventures like Aurora Station, calling them crucial for jumpstarting the commercialization of low-Earth orbit.
+
+“Affordable destinations in space are needed for both research and private use,” Garriott told NBC News MACH in an email. The ISS works well as a laboratory for NASA and its partners, he said, but it “remains far too expensive and politically complicated for many uses.”
+
+Of course, spending time in orbit around our planet transcends economic and political considerations.
+
+“Seeing the Earth from orbit is a profoundly life-changing experience,” Garriott said. “You feel not only remote and isolated, but simultaneously strangely intimately close…You feel more deeply connected to the future of our fragile planet than ever before!”
+
+Despite what you may have read, a 1,500-foot-wide asteroid named Bennu is not going to devastate our planet on Sept. 25, 2135. Brent Barbee, an expert on space hazards at NASA’s Goddard Space Flight Center, is clear on that point: “It’ll only closely approach Earth, not impact Earth,” he says. It should miss us by at least 65,000 miles.
+
+But Barbee is also clear that if Bennu were to hit us, the consequences would be ugly. The 40-million-ton space rock would unleash a force equal to 80,000 atomic bombs like the one dropped on Hiroshima, enough to flatten buildings for dozens of miles in all directions. And while Bennu is the most dangerous asteroid on the planetary science watch list, 1,894 others are currently listed as “potentially hazardous objects.”
+
+To size up the risk, NASA is sending a spacecraft called OSIRIS-REx to explore Bennu. The probe, shaped like an eight-foot cube with solar-panel wings, launched in September 2016 and will arrive at the space rock this August. When it does, it will nestle up to Bennu, testing rendezvous and landing techniques and collecting a surface sample to investigate the composition of such asteroids.
+
+Meanwhile, Barbee has been leading a study of what it would take to protect our planet if Bennu — or another object like it — were on track for a full-on impact with Earth. The team presented its findings last month, and outlined a concept for a Hypervelocity Asteroid Mitigation Mission for Emergency Response.
+
+HAMMER would be like a planetary defense shield: a fleet of spacecraft that would either bash directly into a dangerous asteroid or set off nuclear charges to deflect it. Barbee calls the HAMMER study “the first steps towards designing spacecraft systems for asteroid deflection.”
+
+The first steps, but hardly the last.
+
+TAKING A SHOT AT A DOUBLE ASTEROID
+In fact, the next step in planetary defense is already underway at Johns Hopkins University’s Applied Physics Lab. There, a team is developing a mission called the Double Asteroid Redirection Test, or DART, which is scheduled to launch around 2020. It’s the first real-world embodiment of the HAMMER concept.
+
+The 1,100-pound DART craft has thrusters, a camera, navigation software, and that’s about it. Its design can be simple because its job is simple: find an asteroid and fly into it at full speed. Such a device is technically known as a kinetic impactor, but you can think of it as a battering ram in space.
+
+“We think we understand the physics of asteroid deflection in theory, but we’ve never performed an experiment at the right scale,” says the Applied Physics Lab's Andy Rivkin, lead investigator for the DART mission. “This is a dress rehearsal for a kinetic impactor-style of asteroid deflection.”
+
+The target set to be rammed is a double asteroid named Didymos. DART will go after the smaller of the two nearby space rocks, a 500-foot-wide rock nicknamed Didymoon. When the spacecraft reaches Didymoon, it will smash into it at 13,000 miles per hour. After the collision, DART will be destroyed but astronomers on Earth will watch to see exactly how Didymoon is changed and moved by the impact.
+
+The DART data will be especially useful, Rivkin says, because Didymoon is believed to be what planetary scientists term a “rubble pile” — more an assemblage of small rocks than a single big one. It’s hard to know how such objects will react to a directed impact without running the experiment.
+
+“DART will also be the first planned visit to a binary asteroid,” Rivkin says. Deflecting a double asteroid will be more complicated than dealing with a single incoming body. Soon we’ll know more about how to do it.
+
+TO NUKE OR NOT TO NUKE?
+If a 500-foot-wide asteroid like Didymoon were on a collision course with Earth, Rivkin estimates that two or three DART-like battering rams could be enough to shove it aside — provided we had several years of advance warning. If we had to act quickly to deflect an incoming space rock, we would need a lot more force to avert a collision.
+
+“The very best thing that can be done to prepare for the potential impact of any-sized asteroid is to find it as far ahead of the impact day as our capabilities allow,” says Lindley Johnson, NASA’s planetary defense officer.
+
+Johnson oversees the Planetary Defense Coordination Office, which coordinates the monitoring of hazardous space objects. If a truly high-risk asteroid turns up, his office will work with other federal agencies to develop a response, perhaps along the lines of HAMMER.
+
+The more immediate problem is early detection. There are a lot of potentially hazardous objects around, and simply finding them isn’t easy.
+
+Johnson cites the daunting NASA estimates: There are roughly 25,000 Didymoon-scale asteroids, 230,000 asteroids in the 150-foot range, and millions more of diameters of 100 feet or less. So far, astronomers believe they’ve found about two-thirds of the large ones, 5 percent of the medium ones, and essentially none of the small fry.
+
+Even the little ones could pack a mighty punch. If a mansion-size stone were to hit Earth over open ocean or remote countryside, it might cause little damage, Johnson says. If it struck a city or even near one, however, it would bring widespread death and destruction. And smaller rocks are generally unseen until they are right upon us.
+
+In short-warning scenarios, kinetic impactors like DART would not be enough. Therefore, the HAMMER study explored the use of nuclear warheads, just as in movies like "Armageddon." Nukes pack a bigger wallop and allow more precision, since we can adjust exactly how close they are to the asteroid when they explode.
+
+For obvious political reasons, nobody is about to conduct a nuclear test strike on an asteroid. But OSIRIS-REx and DART will vastly increase the storehouse of data needed to turn the HAMMER studies into a real mission (even a nuclear one), if and when the need arises. After a long period of stinginess, Congress is also allotting more funding for asteroid surveys, increasing the likelihood that we’ll have enough warning to make nukes unnecessary anyway.
+
+It seems that the world is finally embracing an argument that planetary-defense advocates like Rivkin have been making for years: “The asteroid threat is unique. It’s the only natural disaster that can be predicted and averted.”
+
+
+In a spiral galaxy more than halfway across the universe, astronomers have discovered what they say is the most distant star ever observed.
+
+Galaxies have been observed at greater distances, but at more than 9 billion light-years from Earth, the huge blue star is at least 100 times farther away than any other individual star ever seen.
+
+Dubbed “Icarus,” the newfound star is about a million times more luminous than the sun but is so far away that its glow is too faint to be detected by even the world’s largest telescopes. The star was visible only because astronomers employed a trick of nature known as “gravitational lensing,” in which gravity from galaxies between Earth and the star acted as a sort of magnifying lens that amplified its light rays.
+
+The discovery caught the scientists by surprise.
+
+“We were using the Hubble Space Telescope to take observations of the first supernova that appeared multiple times on the sky,” Dr. Patrick Kelly, a University of Minnesota astrophysicist and the leader of the team of scientists who made the discovery, told NBC News MACH in an email. “The discovery of the lensed star was completely serendipitous — we weren’t looking for it.”
+
+The star’s official name is MACS J1149+2223 Lensed Star 1, or LS1 for short. Kelly and his colleagues gave it the informal name of Icarus after the doomed character from Greek mythology who donned wings of feathers and wax but perished when he flew too close to the sun.
+
+Dr. Louise Howes, a postdoctoral researcher at Lund University in Sweden, called the Icarus finding “remarkable.” Howes, who in 2015 led a research team that discovered some of the oldest stars in the universe, said stars like Icarus typically burn brightly but die young.
+
+But Howes, who was not involved in the discovery of Icarus, said such stars have lessons to teach us. “Finding distant stars like LS1 is our only way of looking at the history of the most massive stars,” she told MACH in an email. “So this discovery is a big step towards looking at a much wider range of stars in the history of the universe.”
+
+And Hubble’s even more powerful successor, the James Webb Space Telescope, could make it possible to find many more far-flung stars after it is launched in 2020. And though such stars are ever so distant, they could help scientists understand conditions closer to home.
+
+“I’m excited about what this means for the future — if we can discover more stars like this,” Howes said, “perhaps even further away, then we can start to compare these stars to massive stars in the Milky Way.”
+
+It’s a real-life space oddity.
+
+Astronomers have discovered an ancient galaxy that seems to hold little if any dark matter — an invisible substance that astronomers previously thought was an essential ingredient for galaxy formation.
+
+The 10-billion-year-old galaxy, known as NGC 1052-DF2, is located 65 million light-years away in the constellation Cetus. It's as large as our Milky Way galaxy but contains 400 times less dark matter than the astronomers had expected to find. The surprising discovery, described in a paper published online March 28 in the journal Nature, raises new questions about how galaxies form.
+
+“You don’t expect a galaxy to have no dark matter because dark matter is not something a galaxy can just opt out of,” said Dr. Pieter van Dokkum, a professor of astronomy and physics at Yale University and the leader of the team of astronomers who made the discovery using a pair of ground-based telescopes and the Hubble Space Telescope.
+
+The newfound galaxy also seems to lack a black hole at its center. That came as another surprise, since astronomers have long thought that most galaxies contain black holes.
+
+Dark matter is thought to make up about 27 percent of the universe, but because it emits no light it cannot be observed directly. Instead, scientists infer its existence based on its gravitational effects on galaxies and galaxy clusters.
+
+It's long been believed that galaxies arise when dark matter attracts gas that ultimately coalesces into stars — and that once a galaxy forms, dark matter helps hold it together.
+
+But Dr. Jeremiah Ostriker, a Columbia University astrophysicist who was not involved with the study, said this atypical galaxy might have been formed by the collision between two typical galaxies, leaving a region of space without dark matter but with gas that eventually turned into stars.
+
+Another possibility, Ostriker said, is that NGC 1052-DF2 contains a form of dark matter that is less massive than the "cold" dark matter thought to make up typical galaxies.
+
+Whatever the explanation, Ostriker said the galaxy's discovery amounted to a "death knell" for the notion that dark matter might not exist at all.
+
+The next challenge for researchers will be looking for more examples of galaxies without dark matter. “It would be extremely exciting if there were more, or even if this was a common type of galaxy,” van Dokkum said. “So the hunt is on.”
+
+NASA astronauts Drew Feustel and Ricky Arnold completed an hours-long spacewalk at the International Space Station today.
+
+The spacewalk began at 9:33 a.m. EDT, about an hour behind schedule. The start time was pushed back after leak checks with Feustel's spacesuit took longer than expected. Despite the adjusted start time, the astronauts were able to complete all the assigned tasks for the day, according to NASA.
+
+Feustel and Arnold installed wireless communications equipment, swapped out high-definition video cameras, and removed aging hoses from a cooling component. Feustel was also able to complete one "get-ahead" task that will save some time on a future planned spacewalk, NASA said.
+
+The spacewalk concluded at 3:43 p.m. EDT, for a total time of 6 hours and 10 minutes.
+
+Feustel and Arnold arrived at the ISS on March 23 and will return to Earth in five months. They launched on a Russian-built rocket from the Baikonur Cosmodrome in Kazakhstan.
+
+Feustel is a veteran spacewalker, and today's outing was the seventh time he has worked in the vacuum of space. It was the third spacewalk of Arnold's career.
+
+Today's excursion was the fourth spacewalk of the year so far, and marked the 209th spacewalk at the International Space Station since the orbital outpost was launched in 1998.
+
+Meteor showers and the “shooting stars” they bring may be beautiful, but the most impressive displays only occur about 10 times a year. Now a Japanese startup that bills itself as the world’s first “space entertainment” company says it wants to turn shooting stars from a once-in-awhile thing to something you can order up whenever you want.
+
+ALE Co. Ltd., based in Tokyo, aims to do that with Earth-orbiting satellites that can release metallic pellets to produce spectacular streaks of light as they fall through the atmosphere and harmlessly burn up.
+
+Ordering up your own meteor shower sounds like the ultimate indulgence for rich people and companies in need of a spectacular new marketing tool, but the idea of on-demand sky shows — dreamed up by University of Tokyo astronomer Lena Okajima in 2001 for a project she dubbed “Sky Canvas” — could do more than indulge the whims of the wealthy.
+
+“We’re all guys who, maybe similar to Elon Musk, grew up on sci-fi and the promise of things that we would have in the future,” said Josh Rodenbaugh, who works on ALE’s satellite operations. “For us, a big part of what we want to do is inspire people to get into STEM [science, technology, engineering and math] fields and think about how we’re doing this.”
+
+There might also be a scientific component to the sky shows.
+
+“One of the things we don’t know very well is the upper atmosphere,” said Dr. John Crassidis, a University at Buffalo professor of mechanical and aerospace engineering who is not involved with the project. “If you could eventually put sensors on every one of these things, we could get a sense of the density at certain altitudes, and that would be good science to have.”
+
+And knowing how objects burn up in the atmosphere could also help researchers figure out the composition and origin of real meteors, according to Dr. William Schonberg, a professor of civil, architectural and environmental engineering at the Missouri University of Science and Technology, who is also not involved with ALE.
+
+“If you can take a look at the change in brightness, you can figure out the original properties of what it was that came in,” Schonberg said. “Maybe then we can figure out what it is and where it came from.”
+
+In December, ALE plans to put a single pellet-carrying satellite into orbit at an altitude of about 220 miles. (For context, the International Space Station orbits at an altitude of about 250 miles.) Customers would be able to order a sky show at a particular time and place. When the call comes in, the company would send a signal commanding the satellite to release the pellets at the precise point in its orbit so that the metallic bits would fall — and burn up spectacularly — right where they’re wanted.
+
+Rodenbaugh said calculations show that the fake shooting stars would be visible to anyone within a 100-kilometer (62-mile) radius of their fall through the atmosphere. “That covers all of New York and New Jersey,” he added. “So even though the price point for an individual shooting star might be pretty high, a whole lot of people will get to enjoy them.”
+
+If all goes according to plan, ALE will send up a second satellite in the summer of 2019, with the first demonstration of the private sky shows to come at a public event in Hiroshima in 2020. Ultimately, the company hopes to launch enough satellites that people anywhere on Earth would be able to order up an artificial meteor shower.
+
+ALE has yet to set a price for the displays. “When we get the service up and running,” he said, “we’ll have a better idea of what the price will look like.”
+
+An out-of-control Chinese space station is expected to plunge to Earth in about a week. Experts say it’s extremely unlikely that large pieces of the school bus-sized Tiangong-1 will survive re-entry through the atmosphere, much less that any of these pieces would land on a populated area. But no one knows for sure.
+
+Tiangong-1 will likely fall from orbit sometime between March 29 and April 4, according to Andrew Abraham, a senior member of the technical staff at the Aerospace Corporation, a federally funded research organization based in El Segundo, California. Abraham has been tracking the 18,000-pound space station since 2016.
+
+“We won’t have a firm idea of precisely when — or any clue of where — until several hours prior to reentry,” he said. “There’s still a fair amount of uncertainty.”
+
+Here’s everything you need to know about Tiangong-1 and its impending fall.
+
+WHAT’S TIANGONG-1’S BACK STORY?
+Tiangong-1, which translates to “Heavenly Palace,” was launched in 2011 as a prototype space station. China sent two crewed missions to the outpost while it was still operational, but the space station has hosted no astronauts since 2013.
+
+In a 2017 update to the United Nations, China said Tiangong-1 had “ceased functioning.” It is assumed that China is unable to control or communicate with the station, though Chinese officials have not confirmed that.
+
+WHY IS IT DIFFICULT TO PREDICT WHEN THE STATION WILL FALL?
+Tinagong-1’s orbit has long been decaying — meaning that Earth’s gravity draws it a bit closer with each orbit it makes around our planet. As it draws nearer, it bumps into more and more air molecules, which slow the station and cause its orbit to decay even more precipitously. This drag force depends in part upon Tiangong-1’s position and whether the station is tumbling, which is hard to know for sure. And the density of the upper atmosphere fluctuates from one day to the next, Abraham said, which affects how much drag is exerted on the falling space station.
+
+WHERE COULD THE SPACE STATION FALL?
+Based on Tiangong-1’s orbit, researchers say the space station will reenter the atmosphere between 43 degrees North and 43 degrees South latitude. It will be impossible to narrow down the location until a couple of hours prior to reentry.
+
+Although there are several major cities within the possible landing zone, including Los Angeles and Houston, debris from the station is likely to plunge in the ocean or on unpopulated land. “It’s more likely than not that this thing will reenter over an unpopulated area and it may be that no on ever sees it,” Abraham said.
+
+AM I IN ANY DANGER?
+According to Aerospace, “the probability that a specific person (i.e., you) will be struck by Tiangong-1 debris is about one million times smaller than the odds of winning the Powerball jackpot."
+
+Only one person — Lottie Williams of Tulsa, Oklahoma — is known to have been hit by space debris falling to Earth. Williams was struck on the shoulder by a small piece of a rocket’s fuel tank in 1997 while out for a walk. She was uninjured.
+
+WILL I BE ABLE TO SEE ANYTHING?
+It might be possible to see streaks across the sky — similar to a meteor shower — at the time of reentry. But that depends, of course, on how close you are to the falling debris as well as the time of day and the amount of cloud cover, according to Abraham.
+
+IS IT UNCOMMON FOR A SPACECRAFT TO FALL TO EARTH?
+It’s not at all uncommon for rocket parts, old satellites, and other bits of space debris to fall to Earth. To date, the largest structure to plummet through the atmosphere was the 268,000-pound Russian Mir space station, which made a controlled descent and splashed down in the Pacific Ocean in March 2001.
+
+What goes up must come down
+
+China’s Tiangong-1 space station is expected to fall to Earth in late March, but it’s hardly the first (or most massive) manmade object to plunge through the planet’s atmosphere. At nearly 19,000 pounds, Tiangong-1 is huge, but here’s how the space station stacks up to other structures that have plummeted back to the planet. And for comparison, we’ve included the International Space Station, which is still in operation but may one day be decommissioned in a similar manner.
+
+Astronomers got a jolt last fall when a telescope in Hawaii glimpsed a large, cigar-shaped object tumbling past the sun at an astonishing clip of 196,000 miles an hour.
+
+Some guessed the 400-meter-long “Oumuamua” object was an alien spacecraft, others that it was a comet. Now it seems increasingly likely that the reddish-tinged thing was an interstellar asteroid — the first known visitor to our solar system from another — and a new study suggests it shot our way after being ejected from a star system with two suns.
+
+“For me as an astronomer, the idea that we have now seen an object up close that not only came from another star system, but one that is very different from our own, was awe inspiring,” Dr. Alan Jackson, an astronomer at the University of Toronto Scarborough and leader of scientists who conducted the research, told NBC News MACH in an email.
+
+For the study, published March 19 in Monthly Notices of the Royal Astronomical Society, Jackson and his collaborators performed 2,000 computer simulations of binary star systems with a small third body representing an object like Oumuamua.
+
+Previous research had shown that when small bodies get close to the center of the system their orbits become unstable, Jackson said. But it was unclear whether small bodies in binary systems wind up hitting one of the stars or being ejected from the system.
+
+“We found that the overwhelming result is ejection with almost none of the small bodies hitting one of the stars,” Jackson told MACH. Based in part on that finding, the scientists concluded that more than 95 percent of objects like Oumuamua originate in binary star systems — and that Oumuamua was one such object.
+
+"Dr. Jackson's statistical finding that such objects would most likely come from binary star systems, ejected through their gravitational interactions, makes sense," Dr. Jay Pasachoff, an astronomer at Williams College in Williamstown, Massachusetts, told MACH in an email. "Of course, we already get particles known as cosmic rays and neutrinos from afar, along with light and its sister radiations plus gravitational waves, but it is exciting to have a macroscopic object."
+
+Jackson said astronomers were fairly confident that Oumuamua didn’t come from a nearby system but that it was hard to know its exact origins. As for its age, he said, “Oumuamua could well have been out there for hundreds of millions of years. Unfortunately, because it came through our solar system very fast and was only discovered when it was already on its way out, our observations of Oumuamua are quite limited.”
+
+It’s another scheme for finding the Romulans or the Borg — and it definitely has some advantages.
+
+The usual approach to looking for alien societies is to scan the skies for signals like radio transmissions or bright, flashing lasers. Either would tell us that someone’s out there.
+
+Lamentably, these schemes have a troublesome drawback: the need for synchronicity between the sender (aliens) and the receiver (us). What are the chances that, when our attention is directed to a particular planetary system, their transmitters are aimed our way? It’s like two pairs of eyes meeting across a crowded casino. It might not happen.
+
+That’s why a detection scheme that doesn't depend on synchronicity — like the one proposed in a new paper published in The Astrophysical Journal — has such great appeal. The idea is to hunt for evidence that’s always around — artifacts that might even outlast the extraterrestrials themselves, in the same way that fossilized bones reveal the long-gone dinosaurs. We’ve never seen a T. rex, nor heard its roar. But we have no doubt that they once stomped across the landscape.
+
+
+Maybe we could sniff out our bumpy-headed brethren by examining the atmosphere around their home planet. For example, we might use instruments to look for the presence of chlorofluorocarbons — the woeful result of too much Klingon hairspray.
+
+Sadly, detecting this gas from light-years away is beyond the capabilities of even the biggest telescopes. But there’s another kind of artifact that might be possible to find. Spanish astronomer Hector Socas-Navarro argues in the paper that we might look for artificial satellites around distant planets. After all, satellites are something you might expect any respectable alien society to have.
+
+For us earthlings, satellites serve a multitude of functions, including spying on our enemies, enabling GPS, and furnishing the endlessly fascinating imagery you can peruse on Google Earth.
+
+But one subclass of the 3,000 or so satellites swarming around Earth is particularly useful: the 400 that pirouette around the planet at roughly 22,000 miles above the equator. At that altitude, these so-called geostationary satellites complete one orbit every 24 hours, the same rate at which the Earth spins. Consequently, they appear fixed in the sky. That makes them especially handy for photographing the weather, relaying international phone calls, and beaming down satellite TV.
+
+Now suppose there are aliens out there who are substantially more advanced than we are. Their planet might be orbited by billions or trillions of geostationary satellites instead of our measly 400. And astronomers might be able to detect this orbiting thicket of space hardware when the planet comes between us and its host star — what astronomers call a transit.
+
+If this were to happen, the dimming of starlight caused by the planet would be preceded and then followed by a very slight dimming by its satellite necklace. This would be especially pronounced if we saw the necklace edge-on, which would block out more starlight and thus be more noticeable.
+
+The beauty of this scheme is manifold. To begin with, there’s no synchronicity problem, so the aliens don’t need to make any effort to get in touch. Even if they managed to blow themselves to smithereens millions of years ago, their satellites might still be around to mark their collective grave.
+
+In addition, this approach requires no new telescopes nor even any new experiments. Astronomers would only need to do a careful check of data that’s already been collected in the search for exoplanets.
+
+Despite what you see on TV and in movies, we’re unlikely to meet aliens anytime soon. In fact, we’re not even sure aliens are out there. But Socas-Navarro’s idea of looking for massive satellite swarms is a clever one. Its chances for success may not be great, but it’s easy to try. And there’s no winning this game without playing.
+
+Dr. Seth Shostak is the senior astronomer at the SETI Institute in Mountain View, California and a noted expert on the search for extraterrestrial intelligence.
+
+By living an extraordinarily rich, productive life despite his profound disability, Stephen Hawking inspired millions around the world. But Hawking, who died on Wednesday at the age of 76, made his greatest contributions as a theoretical physicist.
+
+Over the years, his books, papers, and lectures turned generations into armchair cosmologists and transformed our understanding of the universe — especially with regard to the strange celestial objects known as black holes.
+
+The first black hole was discovered in 1971, and we now believe that 100 million or so are sprinkled across the universe. Most astronomers now believe that black holes lie at the center of most, if not all, galaxies, including our own Milky Way.
+
+But at the time of Hawking’s birth in 1942, black holes were little more than a mathematical quirk — a prediction of Albert Einstein’s 1916 theory of general relativity. The term black hole itself wasn’t coined until the 1960s, when scientists began to realize that Einstein’s math actually described real objects — gaping abysses of raw gravitational force so powerful that they suck in dust, gas, and stars and stop light itself from escaping.
+
+In the 1960s, Hawking and fellow British physicist Roger Penrose built on Einstein’s theories to describe the physical characteristics of black holes and showed that when a star collapses it forms an infinitely dense point called a singularity — the birth of a black hole.
+
+Hawking also helped confirm the Big Bang theory. Drawing once again from Einstein’s equations, he and Penrose showed that 13.8 billion years ago the universe emerged violently from a single compressed point no bigger than an atom.
+
+“We didn’t know these things until they proved them,” Sean Carroll, a professor of physics at Caltech and one of the world’s leading cosmologists, says of Hawking and Penrose. “So through that alone I think it’s safe to say that Hawking taught us more about gravity and space-time than any person since Einstein.”
+
+Hawking’s biggest breakthrough was yet to come.
+
+BLACK HOLES NOT SO BLACK
+In 1974, Hawking published a paper that contained one of the strangest ideas yet about black holes.
+
+At the time, the consensus among physicists was that once something gets sucked into a black hole it can never escape. They believed that as black holes kept swallowing up all matter around them, they grew inexorably.
+
+Hawking showed that black holes can actually shrink. The reason, he said, was that black holes shed particles and radiate energy — a phenomenon that came to be known as “Hawking radiation.” And this conclusion meant that rather than being voids producing nothing at all — as physicists had long thought — black holes actually glow.
+
+”As Hawking himself put it, ‘black holes ain’t so black,’” Carroll says. “This was a stunning finding that surprised everybody, and we’re still trying to understand its implications.”
+
+Hawking went on to show that while large black holes emit radiation as a slow dribble, small ones glow, emitting lots of radiation quickly. He showed that all black holes eventually evaporate or boil themselves away, expiring in a brilliant burst of energy equivalent to a million 1-megaton hydrogen bombs.
+
+As Hawking’s mind kept coming up with new ideas, his body was slowly withering — a result of the neurodegenerative disease amyotrophic lateral sclerosis, or Lou Gehrig’s disease, with which he had been diagnosed with at age 21. Ironically, his growing paralysis may have enabled him to think about black holes in ways other physicists never could.
+
+“Most physicists work with equations using pen and paper, but because of his disability, Hawking found it easier to visualize things in his mind,” says Alan Lightman, a professor of theoretical physics at MIT and one of Hawking’s long-time friends. “So he developed some new graphical methods for visualizing the trajectory of light rays through the warped space geometry created by the immense gravity of a black hole. And he applied these methods to making these major breakthroughs.”
+
+THE INFORMATION PARADOX
+For all Hawking’s remarkable insights, he was never able to solve one of the greatest puzzles involving black holes.
+
+Every star is associated with lots of information — ranging from its shape and chemical composition to how fast it spins. But when a star collapses to become a black hole, it seems that all that information is lost forever.
+
+But this appears to violate a bedrock concept of quantum physics, the rules that describe how the universe works at the atomic and subatomic levels. Quantum physics holds that information can never truly be lost.
+
+“The reason why this is upsetting to physicists is that all our current theories of the universe assume that the amount of information in the world stays constant,” Lightman says. “You can move information from one place to another, but you cannot destroy it.”
+
+Exactly what happens to the lost information contained within stars when they collapse remains a mystery, although Hawking — who spent 40 years on the problem — came up with a number of possible solutions.
+
+In the early 2000s, he proposed that the information isn’t actually lost but is somehow encoded in the radiation black holes emit. But neither Hawking nor his colleagues came up with anything resembling a concrete proof. Thus the so-called “information paradox” remains unsolved — and may stay unsolved for the foreseeable future.
+
+Or it just might be that the Whole Earth Telescope — a project that links 30 observatories in 12 countries to create an Earth-sized telescope — will detect a tiny black hole and actually observe Hawking radiation. If that were to happen, physicists could probe for clues as to whether this radiation does indeed encode the missing information.
+
+“The black holes we know about are so large that their Hawking radiation is predicted to be much fainter than even the background light in the cosmos, too faint to pick up,” Carroll says. “If we could identify a really tiny black hole, the radiation emitted would be much larger.”
+
+COSMIC INSPIRATION
+Hawking himself might not have been surprised should the real answer to the information paradox be far stranger. In one of his final published works, Hawking argued that black holes might serve as gateways to parallel universes and that missing information might actually be transferred to those universes.
+
+Whatever the truth, Hawking remained convinced that by attempting to understand the universe’s inner workings, humans can learn valuable lessons about themselves. As he explained in a 2015 lecture, black holes offer can their own form of inspiration.
+
+“Black holes are not the eternal prisons they were once thought,” he said. “Things can get out of a black hole both on the outside and possibly come out in another universe. If you feel you are trapped in a black hole, don't give up. There is a way out."
+
