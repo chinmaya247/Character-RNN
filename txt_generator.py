@@ -1,5 +1,7 @@
-#reference1: https://gist.github.com/karpathy/d4dee566867f8291f086
-#reference2: https://gist.github.com/mikalv/3947ccf21366669ac06a01f39d7cff05
+'''
+reference1: https://gist.github.com/karpathy/d4dee566867f8291f086
+reference2: https://gist.github.com/mikalv/3947ccf21366669ac06a01f39d7cff05
+'''
 
 import tensorflow as tf
 import numpy as np
@@ -7,7 +9,7 @@ import numpy as np
 #Set Hyperparameters
 seq_len = 25
 learning_rate = 1e-1
-epoch = 200
+epoch = 400
 batch_size = 32
 hidden_size = 128
 tf.reset_default_graph()
